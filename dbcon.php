@@ -1,9 +1,9 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "pass";
 $dbname = "gp_surgery";
-$port = 3307;
+$port = 3306;
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname, $port);
