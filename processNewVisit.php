@@ -13,7 +13,7 @@ $sql = "INSERT INTO visit (visit_date, visit_time, doctor_id, patient_id, cost)
         VALUES ('$visitDate', '$visitTime', '$docid', '$ptntid', '$cost')";
 
 
-echo "SQL Query: " . $sql;
+//echo "SQL Query: " . $sql;
 
 
 if (mysqli_query($conn, $sql)) {
