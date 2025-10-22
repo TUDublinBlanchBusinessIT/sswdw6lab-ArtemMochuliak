@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "pass";
+$password = "Pass4";
 $dbname = "gp_surgery";
 $port = 3306;
 
