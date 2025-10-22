@@ -12,9 +12,13 @@
           <table class="table table-striped">
             <thead>
               <tr>
+                <th>ID</th> 
                 <th>Visit Date</th>
                 <th>Visit Time</th>
+                <th>Doctor ID</th> 
                 <th>Patient ID</th>
+                <th>Cost</th>
+                <th>Overtime</th> 
               </tr>
             </thead>
             <tbody>
